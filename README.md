@@ -1,5 +1,4 @@
-# AD-DHCP-Vid
-<h1>Active Directory DHCP Project</h1>
+# <h1>Active Directory DHCP Project</h1>
 
 <h2>Description</h2>
 
