@@ -21,8 +21,10 @@ Configured Active Directory Domain Services (AD DS) to establish a domain: JTdom
 
 Set up Routing and Remote Access (RAS) using NAT to enable internet connectivity for internal clients.
 
+<h2>Domain/DHCP configuration</h2>
+<p>https://youtu.be/JIZfHFkSMCs</p>
 
-
+<h2>Adding the scope</h2>
 <p>https://www.youtube.com/watch?v=Kkd4Nk6MSuk</p>
 
 <br>
