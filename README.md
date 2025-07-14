@@ -65,14 +65,23 @@ DNS: 172.16.0.1
 
 </br>
 
-Outcomes:
+Project Outcomes:
+
 Demonstrated the ability to deploy and configure DHCP services in a Windows Server environment.
 
 Successfully integrated a client machine into a domain and verified dynamic IP allocation.
 
 Enabled domain-based network management and internet access via NAT routing.
 
+
+
+<br>
+
+
+</br>
+
 Skills Demonstrated:
+
 Virtualization using Oracle VirtualBox
 
 DHCP server configuration
