@@ -7,4 +7,78 @@
 ![image](https://github.com/user-attachments/assets/3b6b3c8a-db5d-41b5-94b2-b131520d2945)
 
 
+Components used:
+
+Windows Server 2019 (Domain Controller):
+
+Deployed as a DHCP server and configured with two network interfaces:
+
+NIC 1 (External): Connected to the home router to obtain an IP address via DHCP for internet access.
+
+NIC 2 (Internal): Static IP address (172.16.0.1) to serve the internal VirtualBox default gateway.
+
+Configured Active Directory Domain Services (AD DS) to establish a domain: JTdomain.com.
+
+Set up Routing and Remote Access (RAS) using NAT to enable internet connectivity for internal clients.
+
+
+
+<p>https://www.youtube.com/watch?v=Kkd4Nk6MSuk</p>
+
+<br>
+
+
+
+
+</br>
+
+
+
+
+
+Windows 10 Client:
+
+Configured with a single internal NIC.
+
+Connected to the internal network and received an IP address from the DHCP server.
+
+Successfully joined the JTdomain.com domain.
+
+DHCP Scope Settings:
+
+IP Range: 172.16.0.100 – 172.16.0.200
+
+Subnet Mask: 255.255.255.0
+
+Gateway: 172.168.0.1
+
+DNS: 172.16.0.1
+
+
+
+
+
+
+
+Outcomes:
+Demonstrated the ability to deploy and configure DHCP services in a Windows Server environment.
+
+Successfully integrated a client machine into a domain and verified dynamic IP allocation.
+
+Enabled domain-based network management and internet access via NAT routing.
+
+Skills Demonstrated:
+Virtualization using Oracle VirtualBox
+
+DHCP server configuration
+
+Active Directory domain setup
+
+NAT and routing configuration via RAS
+
+Internal network planning and IP management
+
+
+
+
 
