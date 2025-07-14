@@ -1,8 +1,10 @@
-# <h1>Active Directory DHCP Project</h1>
+# <h1>Virtual DHCP Server Deployment Using Windows Server 2019</h1>
 
 <h2>Description</h2>
 
-<p>In this video I am using a virtual machine to create a domain controller using server 2019 configured with active directory. afterwards i will connect to the DC using a win10 client.  Once the client is setup I will go through some of the basic functions of Active Directory in regards to user accounts </p2>
+<p>In this project, I used Oracle VirtualBox to create a virtualized network environment. I deployed a Windows Server 2019 virtual machine and configured it as a DHCP server. A separate Windows 10 virtual machine was then connected to the same virtual network to verify dynamic IP address allocation. This setup demonstrated my ability to create and manage network services in a virtualized environment, as well as my understanding of DHCP configuration and client-server communication within Windows-based systems.</p2>
 
 ![image](https://github.com/user-attachments/assets/3b6b3c8a-db5d-41b5-94b2-b131520d2945)
+
+
 
