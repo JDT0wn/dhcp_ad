@@ -60,7 +60,10 @@ DNS: 172.16.0.1
 
 
 
+<br>
 
+
+</br>
 
 Outcomes:
 Demonstrated the ability to deploy and configure DHCP services in a Windows Server environment.
