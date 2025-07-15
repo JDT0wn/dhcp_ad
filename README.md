@@ -62,7 +62,7 @@ Gateway: 172.16.0.1
 DNS: 172.16.0.1
 
 <h2>Client running on DHCP</h2>
-<p>https://youtu.be/JsexRvPJH58</p>
+<p>https://youtu.be/pFxvJBLimKo</p>
 
 
 
