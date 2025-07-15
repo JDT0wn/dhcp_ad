@@ -26,7 +26,7 @@ Set up Routing and Remote Access (RAS) using NAT to enable internet connectivity
 <p>https://youtu.be/JIZfHFkSMCs</p>
 
 <h2>Adding the scope</h2>
-<p>https://www.youtube.com/watch?v=Kkd4Nk6MSuk</p>
+<p>https://youtu.be/YZ9wALCsXVU</p>
 
 
 
