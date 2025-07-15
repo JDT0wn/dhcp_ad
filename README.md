@@ -4,7 +4,7 @@
 
 <p>In this project, I used Oracle VirtualBox to create a virtualized network environment. I deployed a Windows Server 2019 virtual machine and configured it as a DHCP server. A separate Windows 10 virtual machine was then connected to the same virtual network to verify dynamic IP address allocation. This setup demonstrated my ability to create and manage network services in a virtualized environment, as well as my understanding of DHCP configuration and client-server communication within Windows-based systems.</p2>
 
-<img width="3068" height="2804" alt="image" src="https://github.com/user-attachments/assets/f47c23fa-ccb8-4398-8062-2df26f353c48" />
+<img width="829" height="772" alt="image" src="https://github.com/user-attachments/assets/824f3e3f-402e-4f0e-a3e2-8a5fa1d579c5" />
 
 
 
