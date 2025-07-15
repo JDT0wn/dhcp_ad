@@ -28,8 +28,12 @@ Set up Routing and Remote Access (RAS) using NAT to enable internet connectivity
 <h2>Adding the scope</h2>
 <p>https://www.youtube.com/watch?v=Kkd4Nk6MSuk</p>
 
-<br>
 
+
+
+
+
+<br>
 
 
 
@@ -53,9 +57,12 @@ IP Range: 172.16.0.100 – 172.16.0.200
 
 Subnet Mask: 255.255.255.0
 
-Gateway: 172.168.0.1
+Gateway: 172.16.0.1
 
 DNS: 172.16.0.1
+
+<h2>Client running on DHCP</h2>
+<p>https://youtu.be/JsexRvPJH58</p>
 
 
 
